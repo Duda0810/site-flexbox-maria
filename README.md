@@ -14,10 +14,10 @@ A proposta do site é apresentar informações sobre **SZA**, um dos maiores nom
 
 O site possui duas páginas principais:
 
-- **Home (`index.html`)**  
+- **Home**  
   Contém o nome da cantora, uma imagem principal (banner), uma breve apresentação da carreira de SZA e uma galeria de destaques visuais.
 
-- **Sobre (`about.html`)**  
+- **Sobre**  
   Apresenta uma biografia resumida, a discografia com foco nos principais álbuns e singles.
 
 ---
